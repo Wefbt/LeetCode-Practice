@@ -5,3 +5,5 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(Fibonacci_Number_509_Recursion Fibonacci_Number_509_Recursion.c)
 add_executable(Fibonacci_Number_509_Cycle Fibonacci_Number_509_Cycle.c)
+add_executable(Palindrome_Number_9_Array Palindrome_Number_9_Array.c)
+add_executable(Palindrome_Number_9_Reverse Palindrome_Number_9_Reverse.c)
