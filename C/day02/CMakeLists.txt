@@ -4,3 +4,4 @@ project(day02 C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(Max_Consecutive_Ones_485 Max_Consecutive_Ones_485.c)
+add_executable(Find_Numbers_with_Even_Number_of_Digits_1295 Find_Numbers_with_Even_Number_of_Digits_1295.c)
