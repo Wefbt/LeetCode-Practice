@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(Max_Consecutive_Ones_485 Max_Consecutive_Ones_485.c)
 add_executable(Find_Numbers_with_Even_Number_of_Digits_1295 Find_Numbers_with_Even_Number_of_Digits_1295.c)
+add_executable(Squares_of_a_Sorted_Array_977 Squares_of_a_Sorted_Array_977.c)
