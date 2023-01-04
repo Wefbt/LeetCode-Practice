@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(Remove_Element_27 Remove_Element_27.c)
 add_executable(Remove_Duplicates_from_Sorted_Array_26 Remove_Duplicates_from_Sorted_Array_26.c)
+add_executable(Check_If_N_and_Its_Double_Exist_1346 Check_If_N_and_Its_Double_Exist_1346.c)
