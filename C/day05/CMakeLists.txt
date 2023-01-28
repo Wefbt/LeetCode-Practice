@@ -5,3 +5,4 @@ set(CMAKE_C_STANDARD 99)
 
 add_executable(Move_Zeroes_283 Move_Zeroes_283.c)
 add_executable(Sort_Array_By_Parity_905 Sort_Array_By_Parity_905.c)
+add_executable(Height_Checker_1051 Height_Checker_1051.c)
