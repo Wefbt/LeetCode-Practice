@@ -4,3 +4,4 @@ project(day06 C)
 set(CMAKE_C_STANDARD 99)
 
 add_executable(Third_Maximum_Number_414 Third_Maximum_Number_414.c)
+add_executable(Find_All_Numbers_Disappeared_in_an_Array_448 Find_All_Numbers_Disappeared_in_an_Array_448.c)
